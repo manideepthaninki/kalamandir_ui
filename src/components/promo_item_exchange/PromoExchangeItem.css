@@ -1,0 +1,3 @@
+tbody,td,tr,tfoot{
+    border-bottom: none !important;
+}

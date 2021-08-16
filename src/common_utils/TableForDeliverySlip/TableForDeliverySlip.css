@@ -1,0 +1,10 @@
+tbody,td,tr,tfoot{
+    border-bottom: none !important;
+}
+.MuiTableRow-root {
+    line-height: 0.43;
+    vertical-align: initial
+}
+.MuiTableCell {
+    text-align: left;
+}

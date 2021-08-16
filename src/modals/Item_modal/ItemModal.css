@@ -1,0 +1,9 @@
+.modal-dialog {
+    max-width: 394px;
+    margin: 1.75rem auto;
+}
+paper {
+     margin: 0px 0px 0px 0px; 
+    position: relative;
+     overflow-y: hidden;
+}

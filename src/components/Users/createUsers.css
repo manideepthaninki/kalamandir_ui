@@ -1,0 +1,28 @@
+.required-field::after {
+    content: "*";
+    color: red;
+  }
+
+   p {
+    font-size: 0.8rem;
+    margin-top: 0.5rem;
+    color: #f00e0e;
+  }
+
+  
+.close-btn {
+  position: absolute;
+  top: 0%;
+  right: 3%;
+  font-size: 2.5rem;
+  z-index: 1;
+  color: rgb(241, 10, 10);
+  cursor: pointer;
+  transform: rotate(-45deg);
+}
+  input{
+    text-transform: uppercase;
+
+  }
+
+  

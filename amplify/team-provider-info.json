@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-kalamandirrpdui-dev-192255-authRole",
+      "UnauthRoleArn": "arn:aws:iam::000078268271:role/amplify-kalamandirrpdui-dev-192255-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::000078268271:role/amplify-kalamandirrpdui-dev-192255-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-kalamandirrpdui-dev-192255-deployment",
+      "UnauthRoleName": "amplify-kalamandirrpdui-dev-192255-unauthRole",
+      "StackName": "amplify-kalamandirrpdui-dev-192255",
+      "StackId": "arn:aws:cloudformation:us-east-2:000078268271:stack/amplify-kalamandirrpdui-dev-192255/d1055380-db3c-11eb-aa86-067f24b295c8",
+      "AmplifyAppId": "d3cuzvxmd1tguh"
+    }
+  }
+}

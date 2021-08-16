@@ -1,0 +1,27 @@
+.MuiInput-underline:before {
+    border-bottom: 0px !important;
+}
+.MuiInput-underline:after {
+    border-bottom: 0px !important;
+}
+
+
+.scrollbar-hidden::-webkit-scrollbar {
+    display: none;
+  }
+.MuiInput-formControl {
+    margin-top: 2px;
+    margin-left: 35px;
+}
+.MuiInputBase-root.MuiInput-root.MuiInput-underline.MuiInputBase-formControl.MuiInput-formControl {
+  
+    margin-top: 5px;
+}
+
+.MuiTypography-body1 {
+    font-size: 26px;
+    font-family: "-webkit-pictograph", "unset", "Arial", -webkit-pictograph;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.00938em;
+}
